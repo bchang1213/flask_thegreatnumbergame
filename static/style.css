@@ -1,0 +1,14 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.win{
+	background-color: green;
+	display: hidden;
+}
+
+.win h3{
+	color: white;
+}
+
